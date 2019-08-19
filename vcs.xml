@@ -34,8 +34,12 @@
           <option name="url" value="https://github.com/EarthChen/imooc-security-study.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.111.150/liuxj/zyy-ecms-medical-framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IdeaProjects" />
+    <option name="cloneParentDir" value="E:\IdeaProjects\zyy-project" />
   </component>
 </application>
