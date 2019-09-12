@@ -14,9 +14,17 @@
           <option name="url" value="http://192.168.111.150" />
           <option name="userName" value="liuxj" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.111.197:3000/liuxj/caida-virtual.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.111.197:3000" />
+          <option name="userName" value="liuxj" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="E:\IdeaProjects\simple-project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
