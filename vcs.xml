@@ -38,9 +38,13 @@
           <option name="url" value="git@github.com:Javen205/IJPay.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git://github.com/spring-projects/spring-security-oauth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IdeaProjects\pay-module" />
+    <option name="cloneParentDir" value="E:\IdeaProjects\demo-project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
