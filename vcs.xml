@@ -42,9 +42,13 @@
           <option name="url" value="git://github.com/spring-projects/spring-security-oauth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git://github.com/spring-projects/spring-security.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IdeaProjects\demo-project" />
+    <option name="cloneParentDir" value="F:\open-code\spring-projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
