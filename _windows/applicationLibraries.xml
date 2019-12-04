@@ -3,10 +3,12 @@
     <library name="lib">
       <CLASSES>
         <root url="file://D:/apache-tomcat-8.5.38/lib" />
+        <root url="file://E:/workspace_Photon/SessionDemo/WebContent/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
       <jarDirectory url="file://D:/apache-tomcat-8.5.38/lib" recursive="false" />
+      <jarDirectory url="file://E:/workspace_Photon/SessionDemo/WebContent/lib" recursive="false" />
     </library>
   </component>
 </application>
