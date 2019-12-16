@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\demo-sms\pom.xml [demo-sms]'" />
+    <option name="defaultScopeName" value="File '...\demo-sms\pom.xml [demo-sms]'" />
+    <option name="SEARCH_SCOPE" value="File '...\demo-sms\pom.xml [demo-sms]'" />
   </component>
 </application>
